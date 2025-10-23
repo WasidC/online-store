@@ -2,7 +2,7 @@
 
 ## Description of the Project
 
-This project is a simple Command-Line Interface (CLI) Online Store Application** built in Java.  
+This project is a simple Command-Line Interface (CLI) Online Store Application built in Java.  
 It allows users to browse products, add them to a shopping cart, and proceed to checkout all through a text-based interface.
 
 ## User Stories
@@ -45,14 +45,30 @@ Follow these steps to get your application running within IntelliJ IDEA:
 ## Demo
 
 ![Application Screenshot](path/to/your/screenshot.png)
+
 ![img.png](img.png)
+
+
 ![img_1.png](img_1.png)
+
+
 ![img_2.png](img_2.png)
+
+
 ![img_3.png](img_3.png)
+
+
 ![img_4.png](img_4.png)
+
+
 ![img_5.png](img_5.png)
+
+
 ![img_6.png](img_6.png)
+
+
 ![img_7.png](img_7.png)
+
 
 
 ## Future Work
